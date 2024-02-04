@@ -1,0 +1,26 @@
+{
+    "3002542ac7b8257484957164b8374867": {
+        "page_script_hash": "3002542ac7b8257484957164b8374867",
+        "page_name": "Login_page",
+        "icon": "",
+        "script_path": "C:\\Users\\mdhan\\OneDrive\\Desktop\\CPP project\\Login_page.py"
+    },
+    "a96ff45e01e59647b2d7dbb170d8f88f": {
+        "page_script_hash": "a96ff45e01e59647b2d7dbb170d8f88f",
+        "page_name": "About_Us",
+        "icon": "",
+        "script_path": "C:\\Users\\mdhan\\OneDrive\\Desktop\\CPP project\\pages\\About Us.py"
+    },
+    "a13d06aaa5c1b8bdf43b654e83687393": {
+        "page_script_hash": "a13d06aaa5c1b8bdf43b654e83687393",
+        "page_name": "Home_page",
+        "icon": "",
+        "script_path": "C:\\Users\\mdhan\\OneDrive\\Desktop\\CPP project\\pages\\Home_page.py"
+    },
+    "c6a2b55f5c231e3d3cc1c082cd71e51f": {
+        "page_script_hash": "c6a2b55f5c231e3d3cc1c082cd71e51f",
+        "page_name": "Tickers",
+        "icon": "",
+        "script_path": "C:\\Users\\mdhan\\OneDrive\\Desktop\\CPP project\\pages\\Tickers.py"
+    }
+}
