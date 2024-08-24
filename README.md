@@ -1,5 +1,5 @@
 # Stock Price Prediction.
-###This is a Stock Price Prediction Website, Using a Machine Learning. This website is created in Python and in Python the Streamlit fremwork is used.
+### This is a Stock Price Prediction Website, Using a Machine Learning. This website is created in Python and in Python the Streamlit fremwork is used.
 
 ![image](https://github.com/hanifjamadar77/Stock-Price-Prediction/assets/133393981/524fbbb6-3f19-47f5-acc1-1178230feedd)
 ![image](https://github.com/hanifjamadar77/Stock-Price-Prediction/assets/133393981/d3643cbd-9348-4679-a909-beb9070e7685)
